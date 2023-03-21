@@ -1,6 +1,5 @@
 import { absurdWebBackend } from "@kikko-land/absurd-web-backend";
 
-// @ts-expect-error
 import sqlWasmUrl from "@kikko-land/sql.js/dist/sql-wasm.wasm";
 import { IInitDbClientConfig, migrationsPlugin, reactiveQueriesPlugin } from "@kikko-land/react";
 
