@@ -1,0 +1,19 @@
+{
+  "name": "kikko-next",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@kikko-land/absurd-web-backend": "^0.10.0",
+    "@kikko-land/react": "^0.8.0",
+    "@kikko-land/sql.js": "^1.6.8",
+    "next": "^13.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.15.5",
+    "@types/react": "18.0.28",
+    "typescript": "5.0.2"
+  }
+}
